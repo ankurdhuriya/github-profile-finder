@@ -5,4 +5,4 @@
   Run index.html
 
 # Snapshot
-  <img src="../Screenshot_2018-06-30 Github Profile Finder.png" width="80%" alt="github-profile-finder"/>
+  <img src="/Screenshot_2018-06-30 Github Profile Finder.png" width="80%" alt="github-profile-finder"/>
